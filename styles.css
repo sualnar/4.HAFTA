@@ -1,0 +1,54 @@
+
+body{
+    height: 2000px;
+}
+
+
+.pembekedi{
+    color: rgb(220, 171, 208);
+}
+
+.büyüklük{
+    font-size: 50px;
+}
+
+.blue{
+    color: rgb(143, 143, 245);
+}
+
+h1{ 
+    front-size: 30px;
+
+}
+
+.arka{
+    background-color: rgb(56, 3, 57);
+}
+
+.arkasarı{
+    background-color: rgb(213, 232, 88);
+    width: 200px;
+    height: 200px;
+}
+
+#mydiv{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(104, 84, 104);
+    font-size: 30px;
+}
+
+.poz{
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+
+.fixed{
+    position: fixed;
+    top: 20px;
+    left: 100px;
+
+    padding: 50px;
+    margin: 50px;
+}
